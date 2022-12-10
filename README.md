@@ -1,5 +1,5 @@
 <a href="https://coderstats.net/github/#mpaperno" target="_blank">
-<image align="center" src="https://github-readme-stats.vercel.app/api?username=mpaperno&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&line_height=28&theme=github_dark&bg_color=00000000&border_color=30363d">
+<image align="center" src="https://github-readme-stats.vercel.app/api?username=mpaperno&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&line_height=28&theme=github_dark&bg_color=00000000&border_color=30363d">
 </a>
 <a href="https://coderstats.net/github/#mpaperno" target="_blank">
 <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpaperno&layout=compact&langs_count=10&hide=html,qmake,css&theme=github_dark&bg_color=00000000&border_color=30363d&custom_title=Language%20Stats%20(click%20for%20more)">
