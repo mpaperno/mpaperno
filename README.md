@@ -44,8 +44,8 @@
 
 <tr>
 <td>
-<a href="https://github.com/mpaperno/spampd#gh-dark-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=spampd&theme=github_dark&bg_color=00000000&border_color=30363d&cache_seconds=7200"></a>
-<a href="https://github.com/mpaperno/spampd#gh-light-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=spampd&theme=github_light&bg_color=00000000&border_color=30363d&cache_seconds=7200"></a>
+<a href="https://github.com/mpaperno/spampd#gh-dark-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=spampd&theme=github_dark&bg_color=00000000&border_color=30363d"></a>
+<a href="https://github.com/mpaperno/spampd#gh-light-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=spampd&theme=github_light&bg_color=00000000&border_color=30363d"></a>
 </td>
 <td>
 <a href="https://github.com/mpaperno/maxLibQt#gh-dark-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=maxLibQt&theme=github_dark&bg_color=00000000&border_color=30363d"></a>
@@ -54,8 +54,8 @@
 </tr>
 <tr>
 <td>
-<a href="https://github.com/mpaperno/jMAVSim#gh-dark-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=jMAVSim&theme=github_dark&bg_color=00000000&border_color=30363d&cache_seconds=7200"></a>
-<a href="https://github.com/mpaperno/jMAVSim#gh-light-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=jMAVSim&theme=github_light&bg_color=00000000&border_color=30363d&cache_seconds=7200"></a>
+<a href="https://github.com/mpaperno/jMAVSim#gh-dark-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=jMAVSim&theme=github_dark&bg_color=00000000&border_color=30363d"></a>
+<a href="https://github.com/mpaperno/jMAVSim#gh-light-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=jMAVSim&theme=github_light&bg_color=00000000&border_color=30363d"></a>
 </td>
 <td>
 <a href="https://github.com/mpaperno/MSFS-Tools#gh-dark-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=MSFS-Tools&theme=github_dark&bg_color=00000000&border_color=30363d"></a>
