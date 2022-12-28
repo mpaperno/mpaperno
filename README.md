@@ -58,8 +58,8 @@
 <a href="https://github.com/mpaperno/jMAVSim#gh-light-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=jMAVSim&theme=github_light&bg_color=00000000&border_color=30363d"></a>
 </td>
 <td>
-<a href="https://github.com/mpaperno/MSFS-Tools#gh-dark-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=MSFS-Tools&theme=github_dark&bg_color=00000000&border_color=30363d"></a>
-<a href="https://github.com/mpaperno/MSFS-Tools#gh-light-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=MSFS-Tools&theme=github_light&bg_color=00000000&border_color=30363d"></a>
+<a href="https://github.com/mpaperno/DSEP4TP#gh-dark-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=DSEP4TP&theme=github_dark&bg_color=00000000&border_color=30363d"></a>
+<a href="https://github.com/mpaperno/DSEP4TP#gh-light-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=DSEP4TP&theme=github_light&bg_color=00000000&border_color=30363d"></a>
 </td>
 </tr>
 </table>
