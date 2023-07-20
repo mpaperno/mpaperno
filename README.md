@@ -3,7 +3,7 @@
 <a href="https://coderstats.net/github/#mpaperno" target="_blank">
 <image align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mpaperno&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&line_height=28&theme=github_dark&&border_color=30363d"></a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<a href="https://coderstats.net/github/#mpaperno" target="_blank">
+<a href="https://coderstats.github.io/github/#mpaperno" target="_blank">
 <image align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mpaperno&layout=compact&langs_count=10&hide=html,qmake,css&theme=github_dark&border_color=30363d&custom_title=Language%20Stats%20(click%20for%20more)"></a>
 </p>
 
