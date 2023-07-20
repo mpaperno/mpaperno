@@ -1,6 +1,6 @@
 
 <p align='center'>
-<a href="https://coderstats.net/github/#mpaperno" target="_blank">
+<a href="https://coderstats.github.io/github/#mpaperno" target="_blank">
 <image align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mpaperno&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&line_height=28&theme=github_dark&&border_color=30363d"></a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://coderstats.github.io/github/#mpaperno" target="_blank">
