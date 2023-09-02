@@ -62,6 +62,16 @@
 <a href="https://github.com/mpaperno/DSEP4TP#gh-light-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=DSEP4TP&theme=github_light&bg_color=00000000&border_color=30363d"></a>
 </td>
 </tr>
+<tr>
+<td>
+<a href="https://github.com/mpaperno/TouchPortal-CPP-API#gh-dark-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=TouchPortal-CPP-API&theme=github_dark&bg_color=00000000&border_color=30363d"></a>
+<a href="https://github.com/mpaperno/TouchPortal-CPP-API#gh-light-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=TouchPortal-CPP-API&theme=github_light&bg_color=00000000&border_color=30363d"></a>
+</td>
+<td>
+<a href="https://github.com/mpaperno/TouchPortal-CS-API#gh-dark-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=TouchPortal-CS-API&theme=github_dark&bg_color=00000000&border_color=30363d"></a>
+<a href="https://github.com/mpaperno/TouchPortal-CS-API#gh-light-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=TouchPortal-CS-API&theme=github_light&bg_color=00000000&border_color=30363d"></a>
+</td>
+</tr>
 </table>
 
 ##### Featured Contributions
@@ -83,8 +93,8 @@
 <a href="https://github.com/opentx/opentx#gh-light-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=opentx&repo=opentx&theme=github_light&bg_color=00000000&border_color=30363d&show_owner=true"></a>
 </td>
 <td>
-<a href="https://github.com/mpaperno/TouchPortal-CS-API#gh-dark-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=TouchPortal-CS-API&theme=github_dark&bg_color=00000000&border_color=30363d"></a>
-<a href="https://github.com/mpaperno/TouchPortal-CS-API#gh-light-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpaperno&repo=TouchPortal-CS-API&theme=github_light&bg_color=00000000&border_color=30363d"></a>
+<a href="https://github.com/spdermn02/touchportal-node-api#gh-dark-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spdermn02&repo=touchportal-node-api&theme=github_dark&bg_color=00000000&border_color=30363d&show_owner=true"></a>
+<a href="https://github.com/spdermn02/touchportal-node-api#gh-light-mode-only"><image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spdermn02&repo=touchportal-node-api&theme=github_light&bg_color=00000000&border_color=30363d&show_owner=true"></a>
 </td>
 </tr>
 </table>
